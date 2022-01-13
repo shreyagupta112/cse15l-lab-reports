@@ -1,6 +1,5 @@
-# CSE15 
+# CSE15 L
 
-This is the second lab of the quarter.
-**Hello**
+**Hello** Freshamn Year, Winter Quarter.
 > ## Oranges 
 > ![Image](https://cdn.mos.cms.futurecdn.net/UaBq5LGpJQd3DDo6ve2dFW-1200-80.jpg)
