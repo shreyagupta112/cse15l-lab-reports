@@ -11,7 +11,7 @@ I first downloaded OpenSSH (a program which can connect computers).  I then used
 &nbsp;
 
 ## Step 3: Trying Some Commands <br />
-I ran the commands "cd", "ls", "pwd", "mkdir", and "cp" in both the server and client.  I also tried modifications of these commands such as "ls -a" (lists all directories including hidden ones) and "cd ~" (exits one directory).  When attempting to run the command "cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/" in my client, I received in error that stated that it couldn;t rea the file because permission was denied.
+I ran the commands "cd", "ls", "pwd", "mkdir", and "cp" in both the server and client.  I also tried modifications of these commands such as "ls -a" (lists all directories including hidden ones) and "cd ~" (exits one directory).  When attempting to run the command "cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/" in my client, I received in error that stated that it couldn't read the file because permission was denied.
 ![Image](im31.png)
 ![Image](im32.png)
 &nbsp;
