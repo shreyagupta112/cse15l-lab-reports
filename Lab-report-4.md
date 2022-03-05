@@ -7,7 +7,7 @@
 
 ## Snippet 1
 
-### Should produce:
+### Intended Output:
 ```
 [`google.com, google.com, ucsd.edu]
 ```
@@ -59,7 +59,7 @@ and checks for brackets. I don;t have an issue with my program getting confsued 
 
 ## Snippet 2
 
-### Should produce:
+### Intended Output::
 ```
 [a.com, a.com(()), example.com]
 ```
@@ -110,7 +110,7 @@ A small code change should be able to fix this.This issue with my code is that i
 
 ## Snippet 3
 
-### Should produce:
+### Intended Output:
 ```
 [https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]
 ```
