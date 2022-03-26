@@ -1,4 +1,4 @@
-# Lab Report 3- Weeek 6: 
+# Lab Report 3 
 
 [Main Page](https://shreyagupta112.github.io/cse15l-lab-reports/)
 
