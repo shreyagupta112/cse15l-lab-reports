@@ -13,10 +13,10 @@ I used the command `nano ~/.ssh/config` to create the file shown above.
 
 ![Image](lab3pic2.png)
 
-The image displays a successful log in using the command `ssh ieng6` inside the terminal and inputting my passphrase key
+I successfully logged in to my ieng6 account using the `ssh ieng6` command on the terminal and typing my passphrase key
 
 ---
 
 ![Image](lab3pic3.png)
 
-The image shows the command `scp` running successfully by copying MarkdownParse.java to my account.
+I used `scp` to copy the file `MarkdownParse.java` into my ieng6 account.  The exact command I used was `scp ~/Desktop/MarkdownParse.java ieng6:~/MarkdownParse.java`.
